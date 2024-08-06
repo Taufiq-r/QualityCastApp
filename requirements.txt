@@ -1,6 +1,0 @@
-numpy<2
-Pillow
-keras
-tensorflow
-matplotlib
-requests
